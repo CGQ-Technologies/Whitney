@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS whiteboards (
+  id TEXT PRIMARY KEY,
+  title TEXT NOT NULL,
+  createdAt TEXT NOT NULL
+);

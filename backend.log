@@ -1,7 +1,0 @@
-
-> backend@1.0.0 start /Users/atilgner/Desktop/Development/Whitney/backend
-> node dist/index.js
-
-[dotenv@17.0.1] injecting env (1) from .env – [tip] encrypt with dotenvx: https://dotenvx.com
-Connected to the SQLite database.
-Backend server is running on http://localhost:3001

@@ -1,0 +1,24 @@
+:root {
+  font-family: var(--mantine-font-family);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-width: 320px;
+  min-height: 100%;
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.excalidraw .App-menu_top {
+  z-index: 1000;
+}
