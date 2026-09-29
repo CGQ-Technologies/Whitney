@@ -46,6 +46,7 @@ The compatibility helpers in `scripts/` delegate to the root Bun commands. You c
 ```text
 app/          Elysia API, database access, migrations, and backend services
 src/          React application source
+clients/      Optional programmatic board client integrations
 scripts/      Small command wrappers
 documentation/ API reference and development notes
 ```
